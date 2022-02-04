@@ -1,0 +1,31 @@
+Table 3: Canada Recovery Sickness Benefit (CRSB) total gross amount (in $000) by province and territory and age group
+
+"Province/Territory","Age Group",,,,,,
+,"Under 25","25-34","35-44","45-54","55-64","65+","Total"
+"Newfoundland and Labrador",890.00,1640.00,1535.00,1010.00,680.00,240.00,5995.00
+"Prince Edward Island",285.00,340.00,215.00,145.00,110.00,35.00,1125.00
+"Nova Scotia",2195.00,3825.00,2700.00,1935.00,1375.00,430.00,12455.00
+"New Brunswick",1385.00,2760.00,2425.00,1780.00,1390.00,380.00,10120.00
+"Quebec",21780.00,31190.00,26685.00,22050.00,15615.00,4435.00,121755.00
+"Ontario",45655.00,78900.00,55670.00,45885.00,34010.00,8465.00,268585.00
+"Manitoba",7715.00,13740.00,11295.00,7595.00,4205.00,960.00,45510.00
+"Saskatchewan",6600.00,11815.00,9435.00,6010.00,2920.00,695.00,37480.00
+"Alberta",23980.00,41000.00,36360.00,22970.00,11740.00,2540.00,138595.00
+"British Columbia",16700.00,27575.00,21640.00,15810.00,10600.00,3085.00,95405.00
+"Yukon",60.00,190.00,200.00,125.00,90.00,20.00,685.00
+"Northwest Territories",210.00,515.00,415.00,315.00,195.00,45.00,1690.00
+"Nunavut",365.00,775.00,605.00,420.00,175.00,50.00,2390.00
+"Outside Canada",30.00,190.00,110.00,60.00,20.00,"-",410.00
+"Missing","-","-","-","-","-","-","-"
+"Total",127845.00,214450.00,169290.00,126115.00,83120.00,21380.00,742195.00
+
+ 
+Notes:
+1. Data are as of October 10 2021 and are subject to change as more applications are received.
+2. Number of applications and applicant province of residence are obtained from the Canada Recovery Sickness Benefit (CRSB) file.
+3. Figures are stated for applicants who applied for the CRSB through Canada Revenue Agency's My Account portal and the Interactive Voice Response system. These figures also include manual applications.
+4. Applicants whose residence is outside of Canada are grouped in the category 'Outside Canada.' Applicants must reside and be present in Canada during the period(s) for which they are applying.
+5. Applicants who do not have a valid province of residence registered within CRA systems are grouped in the category 'Missing.'
+6. The gross amount is the total before taxes are withheld. The Canada Revenue Agency withholds a 10% tax at source for each CRSB payment issued.
+7. All counts are rounded to the nearest ten and all amounts are rounded and in thousands of dollars. The sum of the data may not add to the total due to rounding and/or suppression.
+8. A hyphen [-] indicates that the information has been suppressed for confidentiality purposes. Suppressed information also includes valid zeros.

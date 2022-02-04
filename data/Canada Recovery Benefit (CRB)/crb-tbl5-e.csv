@@ -1,0 +1,33 @@
+Table 5: Canada Recovery Benefit (CRB) total gross amount (in $000) by province and territory and gender
+
+"Province/Territory","Gender",,,
+,"Male","Female","Gender Diverse/Unknown","Total"
+"Newfoundland and Labrador",155460.00,120970.00,"-",276440.00
+"Prince Edward Island",35920.00,30610.00,"-",66530.00
+"Nova Scotia",305790.00,258710.00,"-",564540.00
+"New Brunswick",204090.00,167510.00,"-",371600.00
+"Quebec",2464800.00,1923550.00,240.00,4388590.00
+"Ontario",7030450.00,5773190.00,840.00,12804470.00
+"Manitoba",430470.00,342760.00,"-",773330.00
+"Saskatchewan",389950.00,293770.00,"-",683750.00
+"Alberta",1918320.00,1624210.00,200.00,3542720.00
+"British Columbia",1847020.00,1633220.00,180.00,3480420.00
+"Yukon",14420.00,10810.00,"-",25220.00
+"Northwest Territories",20710.00,14990.00,"-",35690.00
+"Nunavut",14100.00,9220.00,"-",23330.00
+"Outside Canada",5250.00,2460.00,"-",7720.00
+"Missing","-","-","-","-"
+"Total",14836750.00,12205990.00,1620.00,27044360.00
+
+ 
+Notes:
+1. Data are as of October 10 2021 and are subject to change as more applications are received.
+2. Number of applications and applicant province of residence are obtained from the Canada Recovery Benefit (CRB) file.
+3. Figures are stated for applicants who applied for the CRB through Canada Revenue Agency's My Account portal and the Interactive Voice Response system. These figures also include manual applications.
+4. Applicants whose residence is outside of Canada are grouped in the category 'Outside Canada.' Applicants must reside and be present in Canada during the period(s) for which they are applying.
+5. Applicants who do not have a valid province of residence registered within CRA systems are grouped in the category 'Missing.'
+6. The gross amount is the total before taxes are withheld. The Canada Revenue Agency withholds a 10% tax at source for each CRB payment issued.
+7. 'Unknown' refers to individuals whose gender is unavailable.
+8. Individuals whose gender is non-binary are represented in the gender diverse category.
+9. All counts are rounded to the nearest ten and all amounts are rounded and in thousands of dollars. The sum of the data may not add to the total due to rounding and/or suppression.
+10. A hyphen [-] indicates that the information has been suppressed for confidentiality purposes. Suppressed information also includes valid zeros.

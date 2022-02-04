@@ -1,0 +1,30 @@
+Table 3: Canada Recovery Caregiving Benefit (CRCB) total gross amount (in $000) by province and territory and age group
+
+"Province/Territory","Age Group",,,,,,
+,"Under 25","25-34","35-44","45-54","55-64","65+","Total"
+"Newfoundland and Labrador",4375.00,16000.00,15995.00,7675.00,3625.00,185.00,47850.00
+"Prince Edward Island",350.00,2100.00,1640.00,695.00,285.00,65.00,5130.00
+"Nova Scotia",8335.00,32175.00,25335.00,13050.00,5135.00,470.00,84500.00
+"New Brunswick",6590.00,20895.00,18295.00,9810.00,4350.00,180.00,60120.00
+"Quebec",45460.00,152590.00,139190.00,87315.00,40635.00,2570.00,467755.00
+"Ontario",85100.00,475040.00,579600.00,228900.00,79725.00,6470.00,1454840.00
+"Manitoba",33100.00,119450.00,97895.00,58065.00,19710.00,580.00,328800.00
+"Saskatchewan",30210.00,101050.00,82525.00,45685.00,14750.00,440.00,274655.00
+"Alberta",38650.00,171485.00,178360.00,75645.00,23475.00,1415.00,489030.00
+"British Columbia",14715.00,95000.00,112050.00,53810.00,22735.00,1920.00,300225.00
+"Yukon",320.00,1680.00,1985.00,1025.00,525.00,"-",5535.00
+"Northwest Territories",2100.00,7260.00,5775.00,4095.00,1600.00,"-",20840.00
+"Nunavut",4670.00,12815.00,10025.00,7210.00,2775.00,"-",37515.00
+"Outside Canada","-",120.00,115.00,75.00,"-","-",390.00
+"Total",274005.00,1207655.00,1268775.00,593045.00,219380.00,14320.00,3577180.00
+
+ 
+Notes:
+1. Data are as of October 10 2021 and are subject to change as more applications are received.
+2. Number of applications and applicant province of residence are obtained from the Canada Recovery Caregiving Benefit (CRCB) file.
+3. Figures are stated for applicants who applied for the CRCB through Canada Revenue Agency's My Account portal and the Interactive Voice Response system. These figures also include manual applications.
+4. Applicants whose residence is outside of Canada are grouped in the category 'Outside Canada.' Applicants must reside and be present in Canada during the period(s) for which they are applying.
+5. Applicants who do not have a valid province of residence registered within CRA systems are grouped in the category 'Missing.'
+6. The gross amount is the total before taxes are withheld. The Canada Revenue Agency withholds a 10% tax at source for each CRCB payment issued.
+7. All counts are rounded to the nearest ten and all amounts are rounded and in thousands of dollars. The sum of the data may not add to the total due to rounding and/or suppression.
+8. A hyphen [-] indicates that the information has been suppressed for confidentiality purposes. Suppressed information also includes valid zeros.

@@ -1,0 +1,32 @@
+Table 1: Number of Canada Recovery Benefit (CRB) applications unique applicants and total gross amount (in $000) by province and territory
+
+"Province/Territory","Number of Applications","Number of Unique Applicants","Total Gross Amount ($000)"
+"Newfoundland and Labrador",286450.00,24700.00,276440.00
+"Prince Edward Island",68880.00,5500.00,66530.00
+"Nova Scotia",584800.00,49750.00,564540.00
+"New Brunswick",385670.00,31950.00,371600.00
+"Quebec",4537310.00,378480.00,4388590.00
+"Ontario",13269500.00,994620.00,12804470.00
+"Manitoba",800500.00,71770.00,773330.00
+"Saskatchewan",707240.00,61130.00,683750.00
+"Alberta",3664510.00,293730.00,3542720.00
+"British Columbia",3605580.00,273990.00,3480420.00
+"Yukon",25940.00,2220.00,25220.00
+"Northwest Territories",36870.00,3550.00,35690.00
+"Nunavut",24080.00,3090.00,23330.00
+"Outside Canada",7850.00,750.00,7720.00
+"Missing","-","-","-"
+"Total",28005190.00,2195220.00,27044360.00
+
+ 
+Notes:
+1. Data are as of October 10 2021 and are subject to change as more applications are received.
+2. Number of applications and applicant province of residence are obtained from the Canada Recovery Benefit (CRB) file.
+3. A unique applicant is an individual. Each unique applicant may apply for more than one eligibility period up to a maximum of 27 periods (54 weeks) for the CRB.
+4. Figures are stated for applicants who applied for the CRB through Canada Revenue Agency's My Account portal and the Interactive Voice Response system. These figures also include manual applications.
+5. Applicants whose residence is outside of Canada are grouped in the category 'Outside Canada.' Applicants must reside and be present in Canada during the period(s) for which they are applying.
+6. Applicants who do not have a valid province of residence registered within CRA systems are grouped in the category 'Missing.'
+7. The gross amount is the total before taxes are withheld. The Canada Revenue Agency withholds a 10% tax at source for each CRB payment issued.
+8. All counts are rounded to the nearest ten and all amounts are rounded and in thousands of dollars. The sum of the data may not add to the total due to rounding and/or suppression.
+9. A hyphen [-] indicates that the information has been suppressed for confidentiality purposes. Suppressed information also includes valid zeros.
+10. Beneficiaries can move between programs over time. For example a beneficiary who is on CRB could apply and move to CRCB for the next benefit period to care for a family member. Alternatively a beneficiary could leave the Employment Insurance (EI) program and move to one of the CRA administered recovery benefits. Regardless of which program a beneficiary moves to they are only eligible to receive one EI or one CRA recovery benefit type in the same period. As a result summing the total number of unique beneficiaries across programs over multiple periods can lead to over-reporting.

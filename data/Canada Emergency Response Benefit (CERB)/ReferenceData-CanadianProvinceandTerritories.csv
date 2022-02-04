@@ -1,0 +1,31 @@
+"Canadian Provinces & Territories |
+Provinces et territoires du Canada",,,,,
+"Canadian Subdivision Code |
+Code de subdivision canadienne","Name in English |
+Nom en anglais","Name in French |
+Nom en français","Abbreviation English |
+Abréviation en anglais","Abbreviation French |
+Abréviation en français","Canadian Subdivision Type Code |
+Code de type de la subdivision canadienne"
+NL,Newfoundland and Labrador,Terre-Neuve-et-Labrador,N.L.,T.-N.-L.,1
+PE,Prince Edward Island,Île-du-Prince-Édouard,P.E.I.,Î.-P.-É.,1
+NS,Nova Scotia,Nouvelle-Écosse,N.S.,N.-É.,1
+NB,New Brunswick,Nouveau-Brunswick,N.B.,N.-B.,1
+QC,Quebec,Québec,Que.,Qc,1
+ON,Ontario,Ontario,Ont.,Ont.,1
+MB,Manitoba,Manitoba,Man.,Man.,1
+SK,Saskatchewan,Saskatchewan,Sask.,Sask.,1
+AB,Alberta,Alberta,Alta.,Alb.,1
+BC,British Columbia,Colombie-Britannique,B.C.,C.-B.,1
+YT,Yukon,Yukon,Y.T.,Yn,2
+NT,Northwest Territories,Territoires du Nord-Ouest,N.W.T.,T.N.-O.,2
+NU,Nunavut,Nunavut,Nvt.,Nt,2
+**,Outside of Canada,En dehors du Canada,Not Applicable,Sans objet,
+??,Unknown residence,Domicile inconnu,Unknown,Inconnu,
+,,,,,
+Notes/Remarques,,,,,
+,Canadian Subdivision code '**’ (Not Applicable) used when an applicant resides outside of Canada.,,,,
+,"Le code de subdivision canadien ""**"" (sans objet) est utilisé lorsqu'un demandeur réside à l'extérieur du Canada.",,,,
+,,,,,
+,Canadian Subdivision code '??'  (Unknown) used when the residence of an applicant is not known.,,,,
+,"Code de subdivision canadien ""??""  (Inconnu) utilisé lorsque la résidence d'un demandeur n'est pas connue.",,,,

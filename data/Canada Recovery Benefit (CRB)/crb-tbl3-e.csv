@@ -1,0 +1,31 @@
+Table 3: Canada Recovery Benefit (CRB) total gross amount (in $000) by province and territory and age group
+
+"Province/Territory","Age Group",,,,,,
+,"Under 25","25-34","35-44","45-54","55-64","65+","Total"
+"Newfoundland and Labrador",28040.00,52040.00,56320.00,54950.00,59410.00,25660.00,276440.00
+"Prince Edward Island",6830.00,14800.00,12570.00,12630.00,12920.00,6780.00,66530.00
+"Nova Scotia",63870.00,132050.00,113970.00,104350.00,106410.00,43890.00,564540.00
+"New Brunswick",40090.00,78660.00,77890.00,76690.00,71270.00,26990.00,371600.00
+"Quebec",508810.00,912870.00,888570.00,860280.00,846380.00,371670.00,4388590.00
+"Ontario",1617760.00,2841670.00,2557640.00,2505700.00,2396210.00,885490.00,12804470.00
+"Manitoba",108340.00,191840.00,165900.00,142910.00,118310.00,46020.00,773330.00
+"Saskatchewan",82340.00,166240.00,155150.00,129930.00,109500.00,40580.00,683750.00
+"Alberta",405800.00,772570.00,826770.00,707490.00,610370.00,219730.00,3542720.00
+"British Columbia",328730.00,714700.00,731000.00,703690.00,710060.00,292240.00,3480420.00
+"Yukon",1740.00,5340.00,5270.00,5100.00,5460.00,2320.00,25220.00
+"Northwest Territories",3500.00,8830.00,7520.00,7120.00,5940.00,2770.00,35690.00
+"Nunavut",2580.00,6610.00,6000.00,4690.00,2510.00,930.00,23330.00
+"Outside Canada",400.00,2490.00,2180.00,1250.00,1090.00,310.00,7720.00
+"Missing","-","-","-","-","-","-","-"
+"Total",3198870.00,5900730.00,5606750.00,5316780.00,5055840.00,1965390.00,27044360.00
+
+ 
+Notes:
+1. Data are as of October 10 2021 and are subject to change as more applications are received.
+2. Number of applications and applicant province of residence are obtained from the Canada Recovery Benefit (CRB) file.
+3. Figures are stated for applicants who applied for the CRB through Canada Revenue Agency's My Account portal and the Interactive Voice Response system. These figures also include manual applications.
+4. Applicants whose residence is outside of Canada are grouped in the category 'Outside Canada.' Applicants must reside and be present in Canada during the period(s) for which they are applying.
+5. Applicants who do not have a valid province of residence registered within CRA systems are grouped in the category 'Missing.'
+6. The gross amount is the total before taxes are withheld. The Canada Revenue Agency withholds a 10% tax at source for each CRB payment issued.
+7. All counts are rounded to the nearest ten and all amounts are rounded and in thousands of dollars. The sum of the data may not add to the total due to rounding and/or suppression.
+8. A hyphen [-] indicates that the information has been suppressed for confidentiality purposes. Suppressed information also includes valid zeros.

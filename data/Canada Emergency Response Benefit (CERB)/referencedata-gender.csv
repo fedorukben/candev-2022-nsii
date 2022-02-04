@@ -1,0 +1,10 @@
+Gender code/Code de genre,Gender,Genre
+101,Female,Femmes
+102,Male,Homme 
+103,Gender Diverse,Diversité des genres
+-1,Not Known,Inconnu
+,,
+Notes/Remarques,,
+,"Gender code ‘103’ (Gender diverse) used when an applicant's gender was either not disclosed, or is non-binary.",
+,,
+,"Le code de genre ""103"" (Diversité des genres) est utilisé lorsque le genre d'un candidat n'a pas été divulgué ou est non binaire.",

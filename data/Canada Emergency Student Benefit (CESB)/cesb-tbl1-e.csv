@@ -1,0 +1,32 @@
+Table 1,,,,,,,,,
+"Number of Canada Emergency Student Benefit (CESB) Applications, Unique Applicants and Payment Amounts (in $000), Administered by the Canada Revenue Agency, by Province and Territory",,,,,,,,,
+,,,,,,,,,
+Province/Territory,Number of Applications- Base CESB,Number of Applications - Enhanced CESB,Number of Applications -Total,Number of Unique Applicants - Base CESB,Number of Unique Applicants - Enhanced CESB,Number of Unique Applicants - Total,Payment Amounts ($000) - Base CESB,Payment Amounts ($000) - Enhanced CESB,Payment Amounts ($000) - Total
+Newfoundland and Labrador,25390,5460,30860,8520,1840,10130,31739,10928,42667
+Prince Edward Island,3830,910,4740,1500,330,1800,4788,1818,6606
+Nova Scotia,36500,11080,47580,12690,3650,16030,45625,22150,67775
+New Brunswick,23300,5260,28570,8750,1850,10420,29129,10528,39657
+Quebec,328320,70910,399230,118700,24380,140230,410396,141822,552218
+Ontario,869950,161280,1031230,285480,52780,332590,1087431,322568,1409999
+Manitoba,42910,9810,52720,15370,3430,18530,53635,19626,73261
+Saskatchewan,41100,13270,54370,14320,4520,18490,51380,26530,77910
+Alberta,190740,38910,229660,63990,13170,75920,238429,77824,316253
+British Columbia,225980,29430,255410,75000,10000,83950,282473,58854,341327
+Yukon,800,240,1040,310,90,390,1001,482,1483
+Northwest Territories,1100,420,1520,460,160,600,1380,836,2216
+Nunavut,440,390,820,240,180,390,545,776,1321
+Outside Canada,1990,280,2270,710,110,810,2489,552,3041
+Missing,230,-,230,120,-,120,281,-,287
+Total,1792580,347650,2140230,604530,116130,708440,2240720,695300,2936020
+,,,,,,,,,
+Notes:,,,,,,,,,
+1. Data are as of October 20 2020 and are subject to change as more applications are received.,,,,,,,,,
+2. Number of applications and applicant province of residence are obtained from the Canada Emergency Student Benefit (CESB) file.,,,,,,,,,
+3. Figures are stated for applicants who applied for the CESB through Canada Revenue Agency's My Account portal and the Interactive Voice Response system. These figures also include manual applications.,,,,,,,,,
+4. Applicants whose residence is outside of Canada are grouped in the category 'Outside Canada'.,,,,,,,,,
+5. Applicants who do not have a valid province of residence registered within CRA systems are grouped in the category 'Missing'.,,,,,,,,,
+"6. All counts are rounded to the nearest ten and all amounts are rounded and in thousands of dollars. The sum of the data may not add to the total, due to rounding.",,,,,,,,,
+"7. Because the applicant's province of residence can change during the eligibility periods, the sum of “number of unique applicants”  may not add to the total shown. The latter represents the total number of unique applicants since the launch of the program.",,,,,,,,,
+8. A hyphen [-] indicates that the information has been suppressed for confidentiality purposes. Suppressed information also includes valid zeros.,,,,,,,,,
+9. Base CESB is a $1250 monthly benefit provided to eligible students who do not qualify for the Canada Emergency Response Benefit (CERB) or Employment Insurance (EI). ,,,,,,,,,
+10. Enhanced CESB is a $2000 monthly benefit provided to eligible students who have a dependent or a disability and do not qualify for the CERB or EI.,,,,,,,,,

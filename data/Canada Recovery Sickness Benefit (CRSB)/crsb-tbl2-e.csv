@@ -1,0 +1,32 @@
+Table 2: Number of Canada Recovery Sickness Benefit (CRSB) unique applicants by province and territory and age group
+
+"Province/Territory","Age Group",,,,,,
+,"Under 25","25-34","35-44","45-54","55-64","65+","Total"
+"Newfoundland and Labrador",890.00,1490.00,1320.00,870.00,600.00,210.00,5380.00
+"Prince Edward Island",290.00,330.00,200.00,130.00,100.00,30.00,1080.00
+"Nova Scotia",2080.00,3510.00,2400.00,1690.00,1190.00,370.00,11230.00
+"New Brunswick",1360.00,2590.00,2190.00,1610.00,1220.00,320.00,9290.00
+"Quebec",21840.00,30380.00,25980.00,21370.00,15240.00,4230.00,119050.00
+"Ontario",43760.00,75340.00,52240.00,43100.00,32220.00,7760.00,254420.00
+"Manitoba",7220.00,11880.00,9580.00,6500.00,3700.00,880.00,39760.00
+"Saskatchewan",6160.00,10360.00,8020.00,5070.00,2580.00,650.00,32840.00
+"Alberta",23280.00,39370.00,33760.00,21210.00,11030.00,2430.00,131080.00
+"British Columbia",16620.00,26750.00,19990.00,14530.00,9850.00,2830.00,90560.00
+"Yukon",60.00,180.00,170.00,110.00,80.00,20.00,620.00
+"Northwest Territories",180.00,420.00,320.00,270.00,170.00,40.00,1410.00
+"Nunavut",280.00,600.00,450.00,330.00,150.00,40.00,1850.00
+"Outside Canada",30.00,190.00,120.00,70.00,20.00,"-",420.00
+"Missing","-","-","-","-","-","-","-"
+"Total",124040.00,203390.00,156750.00,116850.00,78140.00,19810.00,698970.00
+
+ 
+Notes:
+1. Data are as of October 10 2021 and are subject to change as more applications are received.
+2. Number of applications and applicant province of residence are obtained from the Canada Recovery Sickness Benefit (CRSB) file.
+3. A unique applicant is an individual. Each unique applicant may apply for more than one eligibility period up to a maximum of 4 periods for the CRSB.
+4. Figures are stated for applicants who applied for the CRSB through Canada Revenue Agency's My Account portal and the Interactive Voice Response system. These figures also include manual applications.
+5. Applicants whose residence is outside of Canada are grouped in the category 'Outside Canada.' Applicants must reside and be present in Canada during the period(s) for which they are applying.
+6. Applicants who do not have a valid province of residence registered within CRA systems are grouped in the category 'Missing.'
+7. All counts are rounded to the nearest ten and all amounts are rounded and in thousands of dollars. The sum of the data may not add to the total due to rounding and/or suppression.
+8. A hyphen [-] indicates that the information has been suppressed for confidentiality purposes. Suppressed information also includes valid zeros.
+9. Beneficiaries can move between programs over time. For example a beneficiary who is on CRB could apply and move to CRCB for the next benefit period to care for a family member. Alternatively a beneficiary could leave the Employment Insurance (EI) program and move to one of the CRA administered recovery benefits. Regardless of which program a beneficiary moves to they are only eligible to receive one EI or one CRA recovery benefit type in the same period. As a result summing the total number of unique beneficiaries across programs over multiple periods can lead to over-reporting.
