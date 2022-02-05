@@ -1,6 +1,4 @@
-Table 2k: Approved Canada Emergency Rent Subsidy (CERS) and Lockdown Support Claims by Period and Industry Sector - Yukon
-
-"Claim Period","Industry (Statistics Canada NAICS)","Count of approved applications","Total Canada Emergency Rent Subsidy and Lockdown Support (Line 320)","Count of properties"
+"period","industry","count","amount_paid","properties"
 "P1: September 27, 2020 to October 24, 2020","11 Agriculture, Forestry, Fishing & Hunting","-","-","-"
 "P1: September 27, 2020 to October 24, 2020","21 Mining, quarrying, and oil and gas extraction","-","-","-"
 "P1: September 27, 2020 to October 24, 2020","22 Utilities","-","-","-"
@@ -18,11 +16,11 @@ Table 2k: Approved Canada Emergency Rent Subsidy (CERS) and Lockdown Support Cla
 "P1: September 27, 2020 to October 24, 2020","61 Education Services","-","-","-"
 "P1: September 27, 2020 to October 24, 2020","62 Health Care & Social Assistance","-","-","-"
 "P1: September 27, 2020 to October 24, 2020","71 Arts, Entertainment & Recreation","-","-","-"
-"P1: September 27, 2020 to October 24, 2020","72 Accommodation & Food Services","-","-","-"
+"P1: September 27, 2020 to October 24, 2020","72 Accommodation & Food Services",10,51000,20
 "P1: September 27, 2020 to October 24, 2020","81 Other Services, except Public Administration","-","-","-"
 "P1: September 27, 2020 to October 24, 2020","91 Public Administration","-","-","-"
 "P1: September 27, 2020 to October 24, 2020","Not Assigned","-","-","-"
-"P1: September 27, 2020 to October 24, 2020","Total - Period 1",40,82000,60
+"P1: September 27, 2020 to October 24, 2020","Total - Period 1",60,147000,80
 "P2: October 25, 2020 to November 21, 2020","11 Agriculture, Forestry, Fishing & Hunting","-","-","-"
 "P2: October 25, 2020 to November 21, 2020","21 Mining, quarrying, and oil and gas extraction","-","-","-"
 "P2: October 25, 2020 to November 21, 2020","22 Utilities","-","-","-"
@@ -40,11 +38,11 @@ Table 2k: Approved Canada Emergency Rent Subsidy (CERS) and Lockdown Support Cla
 "P2: October 25, 2020 to November 21, 2020","61 Education Services","-","-","-"
 "P2: October 25, 2020 to November 21, 2020","62 Health Care & Social Assistance","-","-","-"
 "P2: October 25, 2020 to November 21, 2020","71 Arts, Entertainment & Recreation","-","-","-"
-"P2: October 25, 2020 to November 21, 2020","72 Accommodation & Food Services","-","-","-"
+"P2: October 25, 2020 to November 21, 2020","72 Accommodation & Food Services",10,62000,20
 "P2: October 25, 2020 to November 21, 2020","81 Other Services, except Public Administration","-","-","-"
 "P2: October 25, 2020 to November 21, 2020","91 Public Administration","-","-","-"
 "P2: October 25, 2020 to November 21, 2020","Not Assigned","-","-","-"
-"P2: October 25, 2020 to November 21, 2020","Total - Period 2",50,88000,50
+"P2: October 25, 2020 to November 21, 2020","Total - Period 2",60,165000,80
 "P3: November 22, 2020 to December 19, 2020","11 Agriculture, Forestry, Fishing & Hunting","-","-","-"
 "P3: November 22, 2020 to December 19, 2020","21 Mining, quarrying, and oil and gas extraction","-","-","-"
 "P3: November 22, 2020 to December 19, 2020","22 Utilities","-","-","-"
@@ -62,11 +60,11 @@ Table 2k: Approved Canada Emergency Rent Subsidy (CERS) and Lockdown Support Cla
 "P3: November 22, 2020 to December 19, 2020","61 Education Services","-","-","-"
 "P3: November 22, 2020 to December 19, 2020","62 Health Care & Social Assistance","-","-","-"
 "P3: November 22, 2020 to December 19, 2020","71 Arts, Entertainment & Recreation","-","-","-"
-"P3: November 22, 2020 to December 19, 2020","72 Accommodation & Food Services","-","-","-"
+"P3: November 22, 2020 to December 19, 2020","72 Accommodation & Food Services",10,56000,20
 "P3: November 22, 2020 to December 19, 2020","81 Other Services, except Public Administration","-","-","-"
 "P3: November 22, 2020 to December 19, 2020","91 Public Administration","-","-","-"
 "P3: November 22, 2020 to December 19, 2020","Not Assigned","-","-","-"
-"P3: November 22, 2020 to December 19, 2020","Total - Period 3",50,112000,70
+"P3: November 22, 2020 to December 19, 2020","Total - Period 3",60,151000,70
 "P4: December 20, 2020 to January 16, 2021","11 Agriculture, Forestry, Fishing & Hunting","-","-","-"
 "P4: December 20, 2020 to January 16, 2021","21 Mining, quarrying, and oil and gas extraction","-","-","-"
 "P4: December 20, 2020 to January 16, 2021","22 Utilities","-","-","-"
@@ -84,11 +82,11 @@ Table 2k: Approved Canada Emergency Rent Subsidy (CERS) and Lockdown Support Cla
 "P4: December 20, 2020 to January 16, 2021","61 Education Services","-","-","-"
 "P4: December 20, 2020 to January 16, 2021","62 Health Care & Social Assistance","-","-","-"
 "P4: December 20, 2020 to January 16, 2021","71 Arts, Entertainment & Recreation","-","-","-"
-"P4: December 20, 2020 to January 16, 2021","72 Accommodation & Food Services","-","-","-"
+"P4: December 20, 2020 to January 16, 2021","72 Accommodation & Food Services",10,59000,20
 "P4: December 20, 2020 to January 16, 2021","81 Other Services, except Public Administration","-","-","-"
 "P4: December 20, 2020 to January 16, 2021","91 Public Administration","-","-","-"
 "P4: December 20, 2020 to January 16, 2021","Not Assigned","-","-","-"
-"P4: December 20, 2020 to January 16, 2021","Total - Period 4","-","-","-"
+"P4: December 20, 2020 to January 16, 2021","Total - Period 4",60,154000,70
 "P5: January 17, 2021 to February 13, 2021","11 Agriculture, Forestry, Fishing & Hunting","-","-","-"
 "P5: January 17, 2021 to February 13, 2021","21 Mining, quarrying, and oil and gas extraction","-","-","-"
 "P5: January 17, 2021 to February 13, 2021","22 Utilities","-","-","-"
@@ -106,11 +104,11 @@ Table 2k: Approved Canada Emergency Rent Subsidy (CERS) and Lockdown Support Cla
 "P5: January 17, 2021 to February 13, 2021","61 Education Services","-","-","-"
 "P5: January 17, 2021 to February 13, 2021","62 Health Care & Social Assistance","-","-","-"
 "P5: January 17, 2021 to February 13, 2021","71 Arts, Entertainment & Recreation","-","-","-"
-"P5: January 17, 2021 to February 13, 2021","72 Accommodation & Food Services",10,32000,10
+"P5: January 17, 2021 to February 13, 2021","72 Accommodation & Food Services","-","-","-"
 "P5: January 17, 2021 to February 13, 2021","81 Other Services, except Public Administration","-","-","-"
 "P5: January 17, 2021 to February 13, 2021","91 Public Administration","-","-","-"
 "P5: January 17, 2021 to February 13, 2021","Not Assigned","-","-","-"
-"P5: January 17, 2021 to February 13, 2021","Total - Period 5","-","-","-"
+"P5: January 17, 2021 to February 13, 2021","Total - Period 5",50,141000,60
 "P6: February 14, 2021 to March 13, 2021","11 Agriculture, Forestry, Fishing & Hunting","-","-","-"
 "P6: February 14, 2021 to March 13, 2021","21 Mining, quarrying, and oil and gas extraction","-","-","-"
 "P6: February 14, 2021 to March 13, 2021","22 Utilities","-","-","-"
@@ -128,11 +126,11 @@ Table 2k: Approved Canada Emergency Rent Subsidy (CERS) and Lockdown Support Cla
 "P6: February 14, 2021 to March 13, 2021","61 Education Services","-","-","-"
 "P6: February 14, 2021 to March 13, 2021","62 Health Care & Social Assistance","-","-","-"
 "P6: February 14, 2021 to March 13, 2021","71 Arts, Entertainment & Recreation","-","-","-"
-"P6: February 14, 2021 to March 13, 2021","72 Accommodation & Food Services",10,37000,10
+"P6: February 14, 2021 to March 13, 2021","72 Accommodation & Food Services","-","-","-"
 "P6: February 14, 2021 to March 13, 2021","81 Other Services, except Public Administration","-","-","-"
 "P6: February 14, 2021 to March 13, 2021","91 Public Administration","-","-","-"
 "P6: February 14, 2021 to March 13, 2021","Not Assigned","-","-","-"
-"P6: February 14, 2021 to March 13, 2021","Total - Period 6","-","-","-"
+"P6: February 14, 2021 to March 13, 2021","Total - Period 6",50,124000,50
 "P7: March 14, 2021 to April 10, 2021","11 Agriculture, Forestry, Fishing & Hunting","-","-","-"
 "P7: March 14, 2021 to April 10, 2021","21 Mining, quarrying, and oil and gas extraction","-","-","-"
 "P7: March 14, 2021 to April 10, 2021","22 Utilities","-","-","-"
@@ -150,11 +148,11 @@ Table 2k: Approved Canada Emergency Rent Subsidy (CERS) and Lockdown Support Cla
 "P7: March 14, 2021 to April 10, 2021","61 Education Services","-","-","-"
 "P7: March 14, 2021 to April 10, 2021","62 Health Care & Social Assistance","-","-","-"
 "P7: March 14, 2021 to April 10, 2021","71 Arts, Entertainment & Recreation","-","-","-"
-"P7: March 14, 2021 to April 10, 2021","72 Accommodation & Food Services","-","-","-"
+"P7: March 14, 2021 to April 10, 2021","72 Accommodation & Food Services",10,49000,20
 "P7: March 14, 2021 to April 10, 2021","81 Other Services, except Public Administration","-","-","-"
 "P7: March 14, 2021 to April 10, 2021","91 Public Administration","-","-","-"
 "P7: March 14, 2021 to April 10, 2021","Not Assigned","-","-","-"
-"P7: March 14, 2021 to April 10, 2021","Total - Period 7","-","-","-"
+"P7: March 14, 2021 to April 10, 2021","Total - Period 7",50,118000,60
 "P8: April 11, 2021 to May 8, 2021","11 Agriculture, Forestry, Fishing & Hunting","-","-","-"
 "P8: April 11, 2021 to May 8, 2021","21 Mining, quarrying, and oil and gas extraction","-","-","-"
 "P8: April 11, 2021 to May 8, 2021","22 Utilities","-","-","-"
@@ -172,11 +170,11 @@ Table 2k: Approved Canada Emergency Rent Subsidy (CERS) and Lockdown Support Cla
 "P8: April 11, 2021 to May 8, 2021","61 Education Services","-","-","-"
 "P8: April 11, 2021 to May 8, 2021","62 Health Care & Social Assistance","-","-","-"
 "P8: April 11, 2021 to May 8, 2021","71 Arts, Entertainment & Recreation","-","-","-"
-"P8: April 11, 2021 to May 8, 2021","72 Accommodation & Food Services","-","-","-"
+"P8: April 11, 2021 to May 8, 2021","72 Accommodation & Food Services",10,47000,10
 "P8: April 11, 2021 to May 8, 2021","81 Other Services, except Public Administration","-","-","-"
 "P8: April 11, 2021 to May 8, 2021","91 Public Administration","-","-","-"
 "P8: April 11, 2021 to May 8, 2021","Not Assigned","-","-","-"
-"P8: April 11, 2021 to May 8, 2021","Total - Period 8","-","-","-"
+"P8: April 11, 2021 to May 8, 2021","Total - Period 8",40,104000,50
 "P9: May 9, 2021 to June 5, 2021","11 Agriculture, Forestry, Fishing & Hunting","-","-","-"
 "P9: May 9, 2021 to June 5, 2021","21 Mining, quarrying, and oil and gas extraction","-","-","-"
 "P9: May 9, 2021 to June 5, 2021","22 Utilities","-","-","-"
@@ -194,11 +192,11 @@ Table 2k: Approved Canada Emergency Rent Subsidy (CERS) and Lockdown Support Cla
 "P9: May 9, 2021 to June 5, 2021","61 Education Services","-","-","-"
 "P9: May 9, 2021 to June 5, 2021","62 Health Care & Social Assistance","-","-","-"
 "P9: May 9, 2021 to June 5, 2021","71 Arts, Entertainment & Recreation","-","-","-"
-"P9: May 9, 2021 to June 5, 2021","72 Accommodation & Food Services","-","-","-"
+"P9: May 9, 2021 to June 5, 2021","72 Accommodation & Food Services",10,53000,10
 "P9: May 9, 2021 to June 5, 2021","81 Other Services, except Public Administration","-","-","-"
 "P9: May 9, 2021 to June 5, 2021","91 Public Administration","-","-","-"
 "P9: May 9, 2021 to June 5, 2021","Not Assigned","-","-","-"
-"P9: May 9, 2021 to June 5, 2021","Total - Period 9",30,52000,40
+"P9: May 9, 2021 to June 5, 2021","Total - Period 9",40,103000,50
 "P10: June 6, 2021 to July 3, 2021","11 Agriculture, Forestry, Fishing & Hunting","-","-","-"
 "P10: June 6, 2021 to July 3, 2021","21 Mining, quarrying, and oil and gas extraction","-","-","-"
 "P10: June 6, 2021 to July 3, 2021","22 Utilities","-","-","-"
@@ -220,7 +218,7 @@ Table 2k: Approved Canada Emergency Rent Subsidy (CERS) and Lockdown Support Cla
 "P10: June 6, 2021 to July 3, 2021","81 Other Services, except Public Administration","-","-","-"
 "P10: June 6, 2021 to July 3, 2021","91 Public Administration","-","-","-"
 "P10: June 6, 2021 to July 3, 2021","Not Assigned","-","-","-"
-"P10: June 6, 2021 to July 3, 2021","Total - Period 10","-","-","-"
+"P10: June 6, 2021 to July 3, 2021","Total - Period 10",40,92000,50
 "P11: July 4, 2021 to July 31, 2021","11 Agriculture, Forestry, Fishing & Hunting","-","-","-"
 "P11: July 4, 2021 to July 31, 2021","21 Mining, quarrying, and oil and gas extraction","-","-","-"
 "P11: July 4, 2021 to July 31, 2021","22 Utilities","-","-","-"
@@ -242,7 +240,7 @@ Table 2k: Approved Canada Emergency Rent Subsidy (CERS) and Lockdown Support Cla
 "P11: July 4, 2021 to July 31, 2021","81 Other Services, except Public Administration","-","-","-"
 "P11: July 4, 2021 to July 31, 2021","91 Public Administration","-","-","-"
 "P11: July 4, 2021 to July 31, 2021","Not Assigned","-","-","-"
-"P11: July 4, 2021 to July 31, 2021","Total - Period 11","-","-","-"
+"P11: July 4, 2021 to July 31, 2021","Total - Period 11",30,72000,40
 "P12: August 1, 2021 to August 28, 2021","11 Agriculture, Forestry, Fishing & Hunting","-","-","-"
 "P12: August 1, 2021 to August 28, 2021","21 Mining, quarrying, and oil and gas extraction","-","-","-"
 "P12: August 1, 2021 to August 28, 2021","22 Utilities","-","-","-"
@@ -264,7 +262,7 @@ Table 2k: Approved Canada Emergency Rent Subsidy (CERS) and Lockdown Support Cla
 "P12: August 1, 2021 to August 28, 2021","81 Other Services, except Public Administration","-","-","-"
 "P12: August 1, 2021 to August 28, 2021","91 Public Administration","-","-","-"
 "P12: August 1, 2021 to August 28, 2021","Not Assigned","-","-","-"
-"P12: August 1, 2021 to August 28, 2021","Total - Period 12","-","-","-"
+"P12: August 1, 2021 to August 28, 2021","Total - Period 12",20,34000,30
 "P13: August 29, 2021 to September 25, 2021","11 Agriculture, Forestry, Fishing & Hunting","-","-","-"
 "P13: August 29, 2021 to September 25, 2021","21 Mining, quarrying, and oil and gas extraction","-","-","-"
 "P13: August 29, 2021 to September 25, 2021","22 Utilities","-","-","-"
@@ -286,8 +284,8 @@ Table 2k: Approved Canada Emergency Rent Subsidy (CERS) and Lockdown Support Cla
 "P13: August 29, 2021 to September 25, 2021","81 Other Services, except Public Administration","-","-","-"
 "P13: August 29, 2021 to September 25, 2021","91 Public Administration","-","-","-"
 "P13: August 29, 2021 to September 25, 2021","Not Assigned","-","-","-"
-"P13: August 29, 2021 to September 25, 2021","Total - Period 13",10,10000,10
-"Total since launch",,480,905000,"-"
+"P13: August 29, 2021 to September 25, 2021","Total - Period 13",10,19000,20
+"Total since launch",,580,1424000,"-"
 
  
 Notes:

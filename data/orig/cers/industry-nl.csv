@@ -1,6 +1,4 @@
-Table 2a: Approved Canada Emergency Rent Subsidy (CERS) and Lockdown Support Claims by Period and Industry Sector - Newfoundland and Labrador
-
-"Claim Period","Industry (Statistics Canada NAICS)","Count of approved applications","Total Canada Emergency Rent Subsidy and Lockdown Support (Line 320)","Count of properties"
+"period","industry","count","amount_paid","properties"
 "P1: September 27, 2020 to October 24, 2020","11 Agriculture, Forestry, Fishing & Hunting","-","-","-"
 "P1: September 27, 2020 to October 24, 2020","21 Mining, quarrying, and oil and gas extraction","-","-","-"
 "P1: September 27, 2020 to October 24, 2020","22 Utilities","-","-","-"
