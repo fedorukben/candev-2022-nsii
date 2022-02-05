@@ -21,3 +21,4 @@ dfs = [clean_prov_ind(prov) for prov in provs]
 df = pd.concat(dfs)
 print(df.sample(5))
 df.to_pickle('../data/cers-ind-merged.pkl')
+
