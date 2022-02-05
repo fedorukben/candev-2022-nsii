@@ -1,5 +1,3 @@
-Table 1: Approved Canada Emergency Rent Subsidy (CERS) and Lockdown Support Claims by Period and Province or Territory of Business Address,,,,
-,,,,
 Claim Period,Province or Territory,Count of approved applications,Total Canada Emergency Rent Subsidy and Lockdown Support (Line 320),Count of properties
 "P1: September 27, 2020 to October 24, 2020",Newfoundland and Labrador,890,2224000,1310
 "P1: September 27, 2020 to October 24, 2020",Prince Edward Island,330,644000,440
@@ -56,9 +54,9 @@ Claim Period,Province or Territory,Count of approved applications,Total Canada E
 "P4: December 20, 2020 to January 16, 2021",Saskatchewan,3830,13249000,15430
 "P4: December 20, 2020 to January 16, 2021",Alberta,22410,107343000,42230
 "P4: December 20, 2020 to January 16, 2021",British Columbia,20130,74343000,27570
-"P4: December 20, 2020 to January 16, 2021",Yukon,-,-,-
+"P4: December 20, 2020 to January 16, 2021",Yukon,,,
 "P4: December 20, 2020 to January 16, 2021",Northwest Territories,60,154000,70
-"P4: December 20, 2020 to January 16, 2021",Nunavut,-,-,-
+"P4: December 20, 2020 to January 16, 2021",Nunavut,,,
 "P4: December 20, 2020 to January 16, 2021",Missing,140,6333000,1210
 "P4: December 20, 2020 to January 16, 2021",Total - Period 4,168490,707969000,255770
 "P5: January 17, 2021 to February 13, 2021",Newfoundland and Labrador,850,2241000,1240
@@ -71,9 +69,9 @@ Claim Period,Province or Territory,Count of approved applications,Total Canada E
 "P5: January 17, 2021 to February 13, 2021",Saskatchewan,3720,13542000,12980
 "P5: January 17, 2021 to February 13, 2021",Alberta,21880,108666000,40340
 "P5: January 17, 2021 to February 13, 2021",British Columbia,19840,77034000,27200
-"P5: January 17, 2021 to February 13, 2021",Yukon,-,-,-
+"P5: January 17, 2021 to February 13, 2021",Yukon,,,
 "P5: January 17, 2021 to February 13, 2021",Northwest Territories,50,141000,60
-"P5: January 17, 2021 to February 13, 2021",Nunavut,-,-,-
+"P5: January 17, 2021 to February 13, 2021",Nunavut,,,
 "P5: January 17, 2021 to February 13, 2021",Missing,140,7236000,1300
 "P5: January 17, 2021 to February 13, 2021",Total - Period 5,169990,785910000,253520
 "P6: February 14, 2021 to March 13, 2021",Newfoundland and Labrador,1020,4057000,1450
@@ -86,9 +84,9 @@ Claim Period,Province or Territory,Count of approved applications,Total Canada E
 "P6: February 14, 2021 to March 13, 2021",Saskatchewan,3620,12954000,12510
 "P6: February 14, 2021 to March 13, 2021",Alberta,21330,98233000,38650
 "P6: February 14, 2021 to March 13, 2021",British Columbia,19300,72486000,26490
-"P6: February 14, 2021 to March 13, 2021",Yukon,-,-,-
+"P6: February 14, 2021 to March 13, 2021",Yukon,,,
 "P6: February 14, 2021 to March 13, 2021",Northwest Territories,50,124000,50
-"P6: February 14, 2021 to March 13, 2021",Nunavut,-,-,-
+"P6: February 14, 2021 to March 13, 2021",Nunavut,,,
 "P6: February 14, 2021 to March 13, 2021",Missing,140,5215000,1240
 "P6: February 14, 2021 to March 13, 2021",Total - Period 6,165240,716786000,245340
 "P7: March 14, 2021 to April 10, 2021",Newfoundland and Labrador,920,3336000,1320
@@ -101,9 +99,9 @@ Claim Period,Province or Territory,Count of approved applications,Total Canada E
 "P7: March 14, 2021 to April 10, 2021",Saskatchewan,3570,12208000,12870
 "P7: March 14, 2021 to April 10, 2021",Alberta,20500,87403000,38580
 "P7: March 14, 2021 to April 10, 2021",British Columbia,18620,69402000,25530
-"P7: March 14, 2021 to April 10, 2021",Yukon,-,-,-
+"P7: March 14, 2021 to April 10, 2021",Yukon,,,
 "P7: March 14, 2021 to April 10, 2021",Northwest Territories,50,118000,60
-"P7: March 14, 2021 to April 10, 2021",Nunavut,-,-,-
+"P7: March 14, 2021 to April 10, 2021",Nunavut,,,
 "P7: March 14, 2021 to April 10, 2021",Missing,130,3837000,1170
 "P7: March 14, 2021 to April 10, 2021",Total - Period 7,158560,631494000,235190
 "P8: April 11, 2021 to May 8, 2021",Newfoundland and Labrador,740,2515000,1080
@@ -116,9 +114,9 @@ Claim Period,Province or Territory,Count of approved applications,Total Canada E
 "P8: April 11, 2021 to May 8, 2021",Saskatchewan,3060,10855000,8850
 "P8: April 11, 2021 to May 8, 2021",Alberta,18680,88852000,35210
 "P8: April 11, 2021 to May 8, 2021",British Columbia,16880,71870000,22920
-"P8: April 11, 2021 to May 8, 2021",Yukon,-,-,-
+"P8: April 11, 2021 to May 8, 2021",Yukon,,,
 "P8: April 11, 2021 to May 8, 2021",Northwest Territories,40,104000,50
-"P8: April 11, 2021 to May 8, 2021",Nunavut,-,-,-
+"P8: April 11, 2021 to May 8, 2021",Nunavut,,,
 "P8: April 11, 2021 to May 8, 2021",Missing,110,4106000,820
 "P8: April 11, 2021 to May 8, 2021",Total - Period 8,145150,640422000,208860
 "P9: May 9, 2021 to June 5, 2021",Newfoundland and Labrador,620,1829000,880
@@ -146,9 +144,9 @@ Claim Period,Province or Territory,Count of approved applications,Total Canada E
 "P10: June 6, 2021 to July 3, 2021",Saskatchewan,2090,6713000,3710
 "P10: June 6, 2021 to July 3, 2021",Alberta,14670,69542000,20140
 "P10: June 6, 2021 to July 3, 2021",British Columbia,13380,53006000,17370
-"P10: June 6, 2021 to July 3, 2021",Yukon,-,-,-
+"P10: June 6, 2021 to July 3, 2021",Yukon,,,
 "P10: June 6, 2021 to July 3, 2021",Northwest Territories,40,92000,50
-"P10: June 6, 2021 to July 3, 2021",Nunavut,-,-,-
+"P10: June 6, 2021 to July 3, 2021",Nunavut,,,
 "P10: June 6, 2021 to July 3, 2021",Missing,80,1927000,500
 "P10: June 6, 2021 to July 3, 2021",Total - Period 10,115660,500449000,153130
 "P11: July 4, 2021 to July 31, 2021",Newfoundland and Labrador,430,1120000,640
@@ -161,9 +159,9 @@ Claim Period,Province or Territory,Count of approved applications,Total Canada E
 "P11: July 4, 2021 to July 31, 2021",Saskatchewan,1590,4004000,2410
 "P11: July 4, 2021 to July 31, 2021",Alberta,11620,40407000,15700
 "P11: July 4, 2021 to July 31, 2021",British Columbia,10690,34637000,13560
-"P11: July 4, 2021 to July 31, 2021",Yukon,-,-,-
+"P11: July 4, 2021 to July 31, 2021",Yukon,,,
 "P11: July 4, 2021 to July 31, 2021",Northwest Territories,30,72000,40
-"P11: July 4, 2021 to July 31, 2021",Nunavut,-,-,-
+"P11: July 4, 2021 to July 31, 2021",Nunavut,,,
 "P11: July 4, 2021 to July 31, 2021",Missing,50,1290000,350
 "P11: July 4, 2021 to July 31, 2021",Total - Period 11,91600,307160000,117880
 "P12: August 1, 2021 to August 28, 2021",Newfoundland and Labrador,340,576000,440
@@ -176,9 +174,9 @@ Claim Period,Province or Territory,Count of approved applications,Total Canada E
 "P12: August 1, 2021 to August 28, 2021",Saskatchewan,1180,1893000,1610
 "P12: August 1, 2021 to August 28, 2021",Alberta,8810,19590000,11670
 "P12: August 1, 2021 to August 28, 2021",British Columbia,8100,16597000,10190
-"P12: August 1, 2021 to August 28, 2021",Yukon,-,-,-
+"P12: August 1, 2021 to August 28, 2021",Yukon,,,
 "P12: August 1, 2021 to August 28, 2021",Northwest Territories,20,34000,30
-"P12: August 1, 2021 to August 28, 2021",Nunavut,-,-,-
+"P12: August 1, 2021 to August 28, 2021",Nunavut,,,
 "P12: August 1, 2021 to August 28, 2021",Missing,30,559000,180
 "P12: August 1, 2021 to August 28, 2021",Total - Period 12,69740,143549000,88230
 "P13: August 29, 2021 to September 25, 2021",Newfoundland and Labrador,170,305000,220
@@ -193,19 +191,7 @@ Claim Period,Province or Territory,Count of approved applications,Total Canada E
 "P13: August 29, 2021 to September 25, 2021",British Columbia,4030,7824000,4980
 "P13: August 29, 2021 to September 25, 2021",Yukon,10,10000,10
 "P13: August 29, 2021 to September 25, 2021",Northwest Territories,10,19000,20
-"P13: August 29, 2021 to September 25, 2021",Nunavut,-,-,-
+"P13: August 29, 2021 to September 25, 2021",Nunavut,,,
 "P13: August 29, 2021 to September 25, 2021",Missing,20,244000,100
 "P13: August 29, 2021 to September 25, 2021",Total - Period 13,34940,67899000,41930
-Total since launch,,1746530,6914033000,-
-,,,,
- ,,,,
-Notes:,,,,
-1. Data are from Canada Revenue Agency source systems as of October 17 2021 11:59:59PM.,,,,
-2. Numbers undergo a statistical review to ensure they represent the population of applicants. Numbers are also subject to change as claims are received/reviewed/adjusted.,,,,
-3. All counts are rounded to the nearest ten. All amounts are rounded to the nearest thousand.,,,,
-4. The sum of the data may not add to the total due to rounding.,,,,
-5. Province/Territory is determined by the business address of the applicant and may not fully reflect where the economic activity took place in Canada.,,,,
-6. 'Missing' indicates that Province/Territory is not available or the business address of the applicant is outside of Canada.,,,,
-7. Total Canada Emergency Rent Subsidy (Line 320) is the sum of Line 300 (Canada Emergency Rent Subsidy) and Line 310 (Lockdown Support).,,,,
-8. As applicants may submit a separate CERS claim for each period; the total number of properties for all periods can result in double counting if summing all periods together. As a result; the overall total for the number of properties is not displayed.,,,,
-9. A hyphen [-] indicates that the information has been suppressed for confidentiality purposes. Suppressed information also includes valid zeros.,,,,
+Total since launch,,1746530,6914033000,
